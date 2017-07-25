@@ -1,5 +1,5 @@
 // Arry of default animals
-var defaultAnimals = ["dog", "cat", "bird", "elephant"];
+var defaultAnimals = ["dog", "cat", "bird", "elephant", "bat", "rat", "fox", "lion", "tiger"];
 function renderButtons() {
     $("#buttons-view").empty();
     // Looping through the array of defaultAnimals
